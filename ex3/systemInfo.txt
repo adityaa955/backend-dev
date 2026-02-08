@@ -1,0 +1,412 @@
+{
+  "cpu": [
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 12858937,
+        "nice": 0,
+        "sys": 22387437,
+        "idle": 210943437,
+        "irq": 2965750
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 9193312,
+        "nice": 0,
+        "sys": 10012203,
+        "idle": 226984234,
+        "irq": 764921
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 13770937,
+        "nice": 0,
+        "sys": 23699421,
+        "idle": 208719390,
+        "irq": 1965265
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 8358500,
+        "nice": 0,
+        "sys": 9214656,
+        "idle": 228616593,
+        "irq": 618765
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 6744859,
+        "nice": 0,
+        "sys": 8247046,
+        "idle": 231197843,
+        "irq": 674296
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 5358609,
+        "nice": 0,
+        "sys": 5088968,
+        "idle": 235742171,
+        "irq": 318500
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 3561921,
+        "nice": 0,
+        "sys": 3151109,
+        "idle": 239476718,
+        "irq": 190078
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 2938546,
+        "nice": 0,
+        "sys": 2390578,
+        "idle": 240860625,
+        "irq": 125578
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 1845093,
+        "nice": 0,
+        "sys": 1746265,
+        "idle": 242598390,
+        "irq": 91078
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 1530453,
+        "nice": 0,
+        "sys": 1414156,
+        "idle": 243245140,
+        "irq": 73531
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 2788343,
+        "nice": 0,
+        "sys": 2022109,
+        "idle": 241379296,
+        "irq": 111250
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 1208562,
+        "nice": 0,
+        "sys": 1173046,
+        "idle": 243808140,
+        "irq": 53890
+      }
+    }
+  ],
+  "memory": 16539545600,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 12859421,
+        "nice": 0,
+        "sys": 22388281,
+        "idle": 210945109,
+        "irq": 2965812
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 9193796,
+        "nice": 0,
+        "sys": 10012625,
+        "idle": 226986328,
+        "irq": 764984
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 13771703,
+        "nice": 0,
+        "sys": 23700343,
+        "idle": 208720703,
+        "irq": 1965328
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 8359046,
+        "nice": 0,
+        "sys": 9215078,
+        "idle": 228618625,
+        "irq": 618812
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 6745687,
+        "nice": 0,
+        "sys": 8247656,
+        "idle": 231199406,
+        "irq": 674312
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 5359140,
+        "nice": 0,
+        "sys": 5089406,
+        "idle": 235744203,
+        "irq": 318515
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 3562265,
+        "nice": 0,
+        "sys": 3151687,
+        "idle": 239478796,
+        "irq": 190125
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 2938921,
+        "nice": 0,
+        "sys": 2390703,
+        "idle": 240863125,
+        "irq": 125593
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 1845140,
+        "nice": 0,
+        "sys": 1746328,
+        "idle": 242601250,
+        "irq": 91093
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 1530468,
+        "nice": 0,
+        "sys": 1414156,
+        "idle": 243248093,
+        "irq": 73531
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 2788390,
+        "nice": 0,
+        "sys": 2022156,
+        "idle": 241382171,
+        "irq": 111250
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 1208593,
+        "nice": 0,
+        "sys": 1173078,
+        "idle": 243811046,
+        "irq": 53906
+      }
+    }
+  ],
+  "memory": 16539545600,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 12860046,
+        "nice": 0,
+        "sys": 22389203,
+        "idle": 210946562,
+        "irq": 2965875
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 9194187,
+        "nice": 0,
+        "sys": 10013281,
+        "idle": 226988281,
+        "irq": 765000
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 13772296,
+        "nice": 0,
+        "sys": 23701421,
+        "idle": 208722031,
+        "irq": 1965359
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 8359421,
+        "nice": 0,
+        "sys": 9215562,
+        "idle": 228620765,
+        "irq": 618859
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 6746093,
+        "nice": 0,
+        "sys": 8248625,
+        "idle": 231201031,
+        "irq": 674343
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 5359593,
+        "nice": 0,
+        "sys": 5090000,
+        "idle": 235746125,
+        "irq": 318546
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 3562687,
+        "nice": 0,
+        "sys": 3152328,
+        "idle": 239480718,
+        "irq": 190250
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 2939421,
+        "nice": 0,
+        "sys": 2391203,
+        "idle": 240865109,
+        "irq": 125609
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 1845515,
+        "nice": 0,
+        "sys": 1746718,
+        "idle": 242603500,
+        "irq": 91140
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 1530671,
+        "nice": 0,
+        "sys": 1414500,
+        "idle": 243250562,
+        "irq": 73578
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 2788531,
+        "nice": 0,
+        "sys": 2022421,
+        "idle": 241384781,
+        "irq": 111250
+      }
+    },
+    {
+      "model": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "speed": 3294,
+      "times": {
+        "user": 1208781,
+        "nice": 0,
+        "sys": 1173250,
+        "idle": 243813703,
+        "irq": 53906
+      }
+    }
+  ],
+  "memory": 16539545600,
+  "platform": "win32"
+}
